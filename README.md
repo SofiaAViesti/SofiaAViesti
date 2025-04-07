@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sofia Alexa Viesti</h1>
 <h3 align="center">An experimental particle physicist wannabee from Brazil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiaaviesti&label=Profile%20views&color=0e75b6&style=flat" alt="sofiaaviesti" /> </p>
 
 - 🔭 I’m currently working on: testing [Garfield++](https://gitlab.cern.ch/garfield/garfieldpp) for particle detection simulations
 
