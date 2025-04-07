@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sofia Alexa Viesti</h1>
-<h3 align="center">An experimental particle physicist wannabe from Brazil</h3>
+<h3 align="center">An experimental particle physicist wannabee from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sofiaaviesti&label=Profile%20views&color=0e75b6&style=flat" alt="sofiaaviesti" /> </p>
 
 - 🔭 I’m currently working on: testing [Garfield++](https://gitlab.cern.ch/garfield/garfieldpp) for particle detection simulations
 
-- 🌱 I’m currently learning: **physics**
+- 🌱 I’m currently learning: Physics! Specifically learning about thermodynamic potentials, special mathematical functions for common use by physicists, experimental in optics and lasers, and astrophysics.
 
-- ⚡ Fun fact: **Nobody in my neighbourhood believes me when I tell them I am a transsexual physicist and I think that's sad and funny at the same time**
+- ⚡ Fun fact about me: Nobody in my neighbourhood believes me when I tell them I am a transsexual physicist working in simulating quantum particle detection experiments and I think that's sad and funny at the same time.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
